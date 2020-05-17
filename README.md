@@ -2,7 +2,7 @@
 
 Provide completions for deno.
 
-#### deno
+#### plugin-deno
 
 > A plugin for [Oh My Fish][omf-link].
 
@@ -23,7 +23,7 @@ $ omf install deno
 ## Usage
 
 ```fish
-$ deno
+$ deno<Tab>
 ```
 
 # License
@@ -31,7 +31,7 @@ $ deno
 [MIT][mit] © [wayou][author] et [al][contributors]
 
 [mit]: https://opensource.org/licenses/MIT
-[author]: https://github.com/wayou
-[contributors]: https://github.com/wayou/plugin-deno/graphs/contributors
+[author]: https://github.com/{{USER}}
+[contributors]: https://github.com/{{USER}}/plugin-plugin-test/graphs/contributors
 [omf-link]: https://www.github.com/oh-my-fish/oh-my-fish
 [license-badge]: https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
